@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 Me mande um recado: samidaniel125@gmail.com
 - 💘 O coração tem razões que a própria razão desconhece.
 - 💐 A César o que é de César...
+- 🕹 Gamer
