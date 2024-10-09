@@ -35,7 +35,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&logoColor=white)
 ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
 ## 🚀 Projeto Recente
 
 - **[SmartCapital WebAPI](https://github.com/sami-daniel/SmartCapital.WebAPI)**: Uma API para controle financeiro pessoal, totalmente personalizavel.
