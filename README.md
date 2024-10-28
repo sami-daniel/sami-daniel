@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FF5733&lines=Desenvolvedor+Back-End;Entusiasta+em+Desenvolvimento+Web;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 ## 🚀 Sobre Mim
-
-🎓 Atualmente estudando Tecnologia da Informação no Cotemig.  
-💼 Estagiando como Monitor em um colégio técnico no Cotemig.  
 📚 Sempre aprendendo algo novo em .NET Core.  
 🌱 Explorando áreas de Desenvolvimento Web e API's. <br>
 🎖️ Participante da Olimpíada Brasileira de Informática.
