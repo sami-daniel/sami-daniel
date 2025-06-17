@@ -1,9 +1,9 @@
 # Hi there, I'm Sami Daniel! 👋
 
-I'm a **Junior Developer** from **Brazil** passionate about building great things with the **Android Ecosystem**. I love open source and enjoy collaborating with others to create, learn, and grow together.
+I'm a **Junior Developer** from **Brazil** passionate about building great things with the **.NET Ecosystem**. I love open source and enjoy collaborating with others to create, learn, and grow together.
 
 - 🚀 Currently learning and enjoying **Scientific Computing**
-- 🦀 Exploring the world of **Rust**
+- 🦀 Exploring the world of Rust, ASP.NET, .NET Maui, Dart...
 - 💡 Always open to new challenges and opportunities to contribute
 
 ## 🌱 About Me
