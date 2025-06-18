@@ -3,7 +3,7 @@
 I'm a **Junior Developer** from **Brazil** passionate about building great things with the **.NET Ecosystem**. I love open source and enjoy collaborating with others to create, learn, and grow together.
 
 - 🚀 Currently learning and enjoying **Scientific Computing**
-- 🦀 Exploring the world of Rust, ASP.NET, .NET Maui, Dart...
+- 🦀 Exploring the world of Rust, .NET, Dart and so on...
 - 💡 Always open to new challenges and opportunities to contribute
 
 ## 🌱 About Me
