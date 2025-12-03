@@ -1,11 +1,5 @@
 # Hi there, I'm Sami Daniel! 👋
 
-I'm a **Software Developer** from **Brazil** passionate about building great things with the **.NET Ecosystem**. I love open source and enjoy collaborating with others to create, learn, and grow together.
-
-- 🚀 Currently learning and enjoying **Scientific Computing**
-- 🦀 Exploring the world of Rust, .NET, Dart and so on...
-- 💡 Always open to new challenges and opportunities to contribute
-
 ## 🌱 About Me
 
 - I believe in continuous learning and sharing knowledge.
@@ -17,6 +11,9 @@ I'm a **Software Developer** from **Brazil** passionate about building great thi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sami-daniel-santos-silva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/samizys)
+
+## Take a look into my blog
+[Daniels' Blog](https://samidaniel.me)
 
 ## 💬 Quote
 
